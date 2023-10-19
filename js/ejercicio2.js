@@ -4,3 +4,7 @@
 
 let nombre = "Facundo Alejo";
 let apellido = "Herrera";
+
+let nombreCompleto = nombre + " " + apellido;
+
+console.log("El nombre completo es: "+nombreCompleto);
