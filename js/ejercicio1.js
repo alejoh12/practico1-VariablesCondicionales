@@ -7,3 +7,5 @@
 // Multiplicación de numero1 y numero2.
 // División de numero1 entre numero2.
 
+let numero1 = 10;
+let numero2 = 11;
