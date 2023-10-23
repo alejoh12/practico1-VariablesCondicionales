@@ -5,3 +5,6 @@
     input: Coder 
     Output: Hola Coder
 */
+
+let nombreUsuario = prompt("Ingresa tu nombre, por favor.");
+document.write("Hola "+nombreUsuario);
