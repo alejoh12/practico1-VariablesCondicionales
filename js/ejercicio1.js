@@ -1,30 +1,3 @@
-// Ejercicio 1: Variables y Operaciones Matemáticas
+// 1.- Escribe un programa de una sola línea que haga que aparezca en la pantalla un alert que diga “un mensaje”.
 
-// Crea dos variables, numero1 y numero2, y asígnales valores numéricos. Luego, realiza las siguientes operaciones y muestra los resultados en la consola:
-
-let numero1 = 10;
-let numero2 = 11;
-let resultado = null;
-
-// Suma de numero1 y numero2.
-
-resultado = numero1 + numero2;
-
-console.log("El resultado de la suma es: "+resultado);
-
-
-// Resta de numero1 y numero2.
-resultado = numero1 - numero2;
-
-console.log("El resultado de la resta es: "+resultado);
-
-
-// Multiplicación de numero1 y numero2.
-resultado = numero1 * numero2;
-
-console.log("El resultado de la multiplicación es: "+resultado);
-
-// División de numero1 entre numero2.
-resultado = numero1 / numero2;
-
-console.log("El resultado de la división es: "+resultado);
+alert('"un mensaje"');
