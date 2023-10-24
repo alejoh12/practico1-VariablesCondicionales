@@ -1,10 +1,3 @@
-// Ejercicio 2: Concatenación de Cadenas
+// 2.- Escribe un programa de una sola línea que escriba en la pantalla un texto que diga «Hello World» (document.write).
 
-// Crea dos variables, nombre y apellido, y asígnales valores de tu elección. Luego, crea una tercera variable llamada nombreCompleto que contenga la concatenación de nombre y apellido. Muestra nombreCompleto en la consola.
-
-let nombre = "Facundo Alejo";
-let apellido = "Herrera";
-
-let nombreCompleto = nombre + " " + apellido;
-
-console.log("El nombre completo es: "+nombreCompleto);
+document.write("<h1 style='color: blueviolet;'>&lt;&lt;Hello World&gt;&gt;</h1>");
